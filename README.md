@@ -3,7 +3,7 @@
 ## Project Description
 This project aims to develop models to predict financial market sentiment from texts. We explore both Machine Learning-based approaches and language models (LLMs) to identify the best performers for the sentiment classification task.
 
-Here you can explore the [notebook](https://github.com/erickmaiia/financial-sentiment-analysis-ml/notebook) with this experiment in more detail
+Here you can explore the [notebook](https://github.com/erickmaiia/ml-financial-sentiment-analysis/blob/main/notebook.ipynb) with this experiment in more detail
 
 We chose to follow a sequence of steps in the development of this experiment:
 
